@@ -105,6 +105,6 @@ def filter(input_las):
 
     print(f"El archivo ha sido filtrado exitosamente")
 
-#input_las = output_las
+input_las = output_las
 
-#filter(input_las)
+filter(input_las)
